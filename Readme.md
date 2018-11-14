@@ -2,7 +2,9 @@
 
 ## Require libraries
 1. pandas -> pip install pandas 
-2. fix_yahoo_finance -> pip install fix-yahoo-finance   detail : https://pypi.org/project/fix-yahoo-finance/ 
+2. fix_yahoo_finance -> pip install fix-yahoo-finance   
+   
+   detail : https://pypi.org/project/fix-yahoo-finance/ 
 
 ## Choose tickers/quotes name 
 change the quotes [list] in "download_from_yahoo.py", must be in the available quote(s) on Yahoo. 
