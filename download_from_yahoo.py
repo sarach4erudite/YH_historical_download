@@ -5,9 +5,9 @@ import time
 quotes = ["^VIX", "^GSPC"]    # download quote can add more than one quote
 
 start_date = '2008-01-01'
-end_date =  '2018-11-13'
+end_date =  '2018-11-13'      # make sure end_date > start_date and end_date <= today_date
 
-# Download all stock quotes in the list 
+# Download all stock quotes in the list     
 for ticker in quotes :
     csv_name = "Data/daily_"+ticker+".csv" 
 
