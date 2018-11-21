@@ -10,7 +10,9 @@
 change the quotes [list] in "download_from_yahoo.py", must be in the available quote(s) on Yahoo. 
 
 ## Change download date 
-change start_date and end_date in format "YYYY-mm-dd" #If there are no data during the date-range it will get error ! 
+change start_date and end_date in format "YYYY-mm-dd" 
+
+# If there are no data during the date-range it will get error ! 
 
 Example how to edit the file :
  
