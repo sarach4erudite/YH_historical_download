@@ -26,7 +26,7 @@ Example how to edit the file :
 ### After running the python file, the csv files are in the "Data" folder.
 
 
-# Note : For Thailand Stock Exchange Data (SET) use "stockname.BK"
+### Note : For Thailand Stock Exchange Data (SET) use "stockname.BK"
 
 Example : 
          
