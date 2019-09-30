@@ -2,7 +2,7 @@
 
 ## Require libraries
 1. pandas -> pip install pandas 
-2. fix_yahoo_finance -> pip install fix-yahoo-finance   
+2. fix_yahoo_finance -> pip install yfinance --upgrade --no-cache-dir   
    
    detail : https://pypi.org/project/fix-yahoo-finance/ 
 
